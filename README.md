@@ -13,7 +13,7 @@ The device it is being run on needs to have go installed. As it is developed wit
 
 Direct to the hue-bridge-attacker folder and open a terminal.
 
-1.
+1. Start up the program via the terminal
 
 ```
 go build -o hue-attack main.go
@@ -23,7 +23,7 @@ go build -o hue-attack main.go
 ```
 ./hue-attack [global options] [infiltration strategy] [attack strategy]
 ```
-3. for an overview of the options fill in the following command
+3. For an overview of the options fill in the following command
 
 ```
 ./hue-attack -help
