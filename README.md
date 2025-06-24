@@ -12,6 +12,7 @@ The device it is being run on needs to have go installed. As it is developed wit
 # Using the tool 
 
 Direct to the hue-bridge-attacker folder and open a terminal.
+
 1.
 
 ```
